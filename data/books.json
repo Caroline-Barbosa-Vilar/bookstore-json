@@ -99,18 +99,6 @@
 		"price": 53.87
 	},
 	{
-		"title": "O anel de Giges",
-		"author": "GIANETTI. Eduardo",
-		"release": "2020",
-		"synopsis": "The fable of Giges, present in the second book of Platos Republic, in which a peasant finds a ring capable of granting him the power of invisibility, is the theme of Eduardo Giannetti's newest book. In an analysis of the mental experiment of living without hindrance or social censorship, Giges ring invites us to think about the nature of our behavior beyond laws and moral constraints. To do so, Giannetti examines the ideals of wholeness and happiness in Western philosophical traditions and how different schools of ethical thought - from Plato to Christianity, from Kant to utilitarianism - would react to the challenge of the ring.
-		In this book, the author of Self-deception once again encourages the reader to distrust himself and question his attitudes as a spectator of his own life in unusual circumstances: What would you do if the ring came into your hands?.",
-		"img": "https://m.media-amazon.com/images/I/61W2ioHO2dL.jpg",
-		"amount": 18,
-		"category": "best-seller",
-		"genre": "Non-fiction",
-		"price": 59.92
-	},
-	{
 		"title": "A revolução dos Bichos",
 		"author": "ORWELL. George",
 		"release": "2007",
@@ -182,7 +170,7 @@
 		"release": "2013",
 		"synopsis": "Certain doors should not be opened. And Coraline discovers this shortly after arriving with her parents at their new home, an apartment in an old mansion occupied by eccentric neighbors and shrouded by an insistent fog, a world of strangeness and magic, the kind of universe that only Neil Gaiman can create.", 
 		"img": "https://m.media-amazon.com/images/I/91DZobBc1BL.jpg",
-		"amount": 8,
+		"amount": 10,
 		"category": "best-seller",
 		"genre": "Non-fiction",
 		"price": 16.90
