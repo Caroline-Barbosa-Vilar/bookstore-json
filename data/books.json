@@ -6,7 +6,7 @@
 		"synopsis": "The protagonist and narrator of Purple Hibiscus, the teenage Kambili shows how the extremely 'white' and Catholic religiosity of her father, Eugene, a famous Nigerian industrialist, slowly hellens and destroys the lives of the entire family. Eugene is so terrified of the primitive traditions of the Nigerian people that he even rejects his father, a charming storyteller, and his sister, an enlightened university professor, for fear of hell. But despite his clear violence and oppression, Eugene is a benefactor of the poor and, strangely enough, supports the most progressive newspaper in the country. During a season at her aunt's house, Kambili ends up falling in love with a priest who is forced to leave Nigeria, due to lack of security and future prospects.",
 		"img": "https://images-na.ssl-images-amazon.com/images/I/81hobIPsJAL.jpg",
 		"amount": 20,
-		"category": "pre-sale",
+		"category": "latest",
 		"genre": "fiction",
 		"price": 26.90
 	},
@@ -17,7 +17,7 @@
 		"synopsis": "Is the story of Pedro, who, after the death of his father, murdered in a disastrous police raid, goes in search of rescuing his family's past and retracing his father's ways. With a sensitive and sometimes brutal narrative, Jeferson Tenório brings to the surface a country marked by racism and a failed educational system, and a dense account of the relationship between parents and children.",
 		"img": "https://images-na.ssl-images-amazon.com/images/I/81p29WCHFaL.jpg",
 		"amount": 15,
-		"category": "latest",
+		"category": ["latest","pre-sale"],
 		"genre": "fiction",
 		"price": 49.20
 	},
@@ -39,7 +39,7 @@
 		"synopsis": "The side effects of motivational speech, The market for motivational talks and books has been growing since the beginning of the 21st century and shows no signs of slowing down. Traditional religions are losing adherents to new churches that exchange the discourse of sin for encouragement and self-help. Political and business institutions have changed the system of punishment, hierarchy, and fighting the competition for the positives of encouragement, efficiency, and social recognition for overcoming one's own limitations. Byung-Chul Han shows that the disciplinary and repressive society of the 20th century described by Michel Foucault is losing space to a new form of coercive organization: neuronal violence. This wave of 'I can' and 'yes, we can' has generated a significant increase in illnesses such as depression, personality disorders, and syndromes like hyperactivity and burnout.",
 		"img": "https://images-na.ssl-images-amazon.com/images/I/615xknuR6CL.jpg",
 		"amount": 25,
-		"category": "best-seller",
+		"category": ["latest","best-seller"],
 		"genre": "Non-fiction",
 		"price": 21.89
 	},
@@ -50,7 +50,7 @@
 		"synopsis": "We live in the Age of the Algorithm. More and more, the decisions that affect our lives - where we study, whether we get a loan to buy a car, how much we pay for health insurance - are being made by mathematical models. In theory this should lead us to a more just world: everyone is judged according to the same rules and prejudice is eliminated, but the truth is just the opposite.The models used today are opaque, unregulated and unquestionable, even when they are wrong. The most worrying thing is that they reinforce discrimination: if a poor student cannot get a loan because the mathematical model considers it too risky (thanks to the address where he lives), he is also turned down at the university that could lift him out of poverty. The algorithms create a discriminatory spiral. The models support the privileged and punish the oppressed, creating a 'toxic cocktail for democracy.'",
 		"img": "https://images-na.ssl-images-amazon.com/images/I/812XfVTQwRL.jpg",
 		"amount": 5,
-		"category": "pre-sale",
+		"category": ["latest","pre-sale"],
 		"genre": ["Non-fiction", "technical-book"],
 		"price": 45.00
 	},
@@ -61,7 +61,7 @@
 		"synopsis": "In this book, Pope Francis, in an open and very honest dialogue with Rabbi Abraham Skorka, reveals everything he thinks. The reflections on God, atheism, abortion, death, fundamentalism, and many other topics give a real idea of what will be behind the actions of the new pope. Now that you know who he is, get to know his ideas, his values, and his faith. Pope Francis, Cardinal Jorge Mario Bergoglio, and Rabbi Abraham Skorka, rector of the Latin American Rabbinical Seminary, are two great promoters of dialogue between religions, through which we seek to build common horizons by diluting the particularities that characterize them. On Heaven and Earth is the result of a series of profound conversations, held at the headquarters of the Episcopate and in the Jewish community Benei Tikva. In their meetings the most varied theological and earthly questions surfaced. God, fundamentalism, atheists, death, the Holocaust, homosexuality, and capitalism are just some of the topics on which the new leader of the Catholic Church and the prestigious Rabbi Skorka give us their opinions.", 
 		"img": "https://images-na.ssl-images-amazon.com/images/I/81Zujwvl80L.jpg",
 		"amount": 10,
-		"category": "best-seller",
+		"category": ["latest","best-seller"],
 		"genre": "Non-fiction",
 		"price": 16.90
 	},
@@ -72,7 +72,7 @@
 		"synopsis": "In this insightful yet accessible book, Haidt gives us the key to understanding the miracle of human cooperation, as well as the curse of our eternal segregation and conflicts. If you are ready to let go of anger and take the path of understanding, read The Moralistic Mind.", 
 		"img": "https://m.media-amazon.com/images/I/61oc+NkPQAL.jpg",
 		"amount": 30,
-		"category": "best-seller",
+		"category": ["best-seller","latest"],
 		"genre": "Non-fiction",
 		"price": 59.90
 	},
@@ -83,7 +83,7 @@
 		"synopsis": "In Galileo and the Science Deniers, astrophysicist and bestselling author Mario Livio draws on his own scientific knowledge to conjecture how Galileo arrived at his revolutionary conclusions about the cosmos and the laws of nature.", 
 		"img": "https://m.media-amazon.com/images/I/91T3ZQsM3oS.jpg",
 		"amount": 9,
-		"category": "best-seller",
+		"category": ["latest","pre-sale"],
 		"genre": "Non-fiction",
 		"price": 47.50
 	},
@@ -116,7 +116,7 @@
 		"synopsis": "A life that no one remembers. A book no one forgets. In The Invisible Life of Addie LaRue, the highly anticipated bestseller by V.E. Schwab, meet Addie and get lost in her invisible - yet memorable - life.", 
 		"img": "https://m.media-amazon.com/images/I/81iqH8dpjuL.jpg",
 		"amount": 10,
-		"category": "best-seller",
+		"category": ["latest","pre-sale"],
 		"genre": "Fiction",
 		"price": 33.85
 	},
@@ -127,7 +127,7 @@
 		"synopsis": "Wolves were painted with a black brush in fairy tales and to this day they frighten defenseless little girls. But they have not always been seen as terrible, violent creatures. In ancient Greece and Rome, the animal was the consort of Artemis, the huntress, and lovingly nursed the heroes. Jungian analyst Clarissa Pinkola Estés believes that in our society women have been treated in a similar way. By investigating the crushing of the female instinctual nature, Clarissa has discovered the key to modern women's sense of powerlessness. ", 
 		"img": "https://m.media-amazon.com/images/I/7121bMhcNKL.jpg",
 		"amount": 5,
-		"category": "best-seller",
+		"category": ["best-seller","latest"],
 		"genre": "Non-fiction",
 		"price": 38.22
 	},
@@ -149,7 +149,7 @@
 		"synopsis": "With a mature, precise, and at the same time delicate and poetic narrative, the novel tells the story of the couple Dalva and Venâncio, whose lives are transformed after a tragic loss, the result of her husband's unhealthy jealousy, and of Lucy, the most depraved and coveted prostitute in town, who gets in their way, forming a love triangle.", 
 		"img": "https://m.media-amazon.com/images/I/816Udvs9O7L.jpg",
 		"amount": 17,
-		"category": "best-seller",
+		"category": ["latest","pre-sale"],
 		"genre": "Fiction",
 		"price": 16.90
 	},
@@ -171,7 +171,7 @@
 		"synopsis": "Certain doors should not be opened. And Coraline discovers this shortly after arriving with her parents at their new home, an apartment in an old mansion occupied by eccentric neighbors and shrouded by an insistent fog, a world of strangeness and magic, the kind of universe that only Neil Gaiman can create.", 
 		"img": "https://m.media-amazon.com/images/I/91DZobBc1BL.jpg",
 		"amount": 10,
-		"category": "best-seller",
+		"category": ["latest","best-seller"],
 		"genre": "Non-fiction",
 		"price": 16.90
 	}
